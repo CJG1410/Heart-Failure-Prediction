@@ -84,5 +84,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Thank you for using our Heart Failure Prediction project! If you have any questions or need assistance, feel free to reach out to us.
 
 ---
-
-**Note:** This README is a template and should be adapted to fit the specific details of your project. Update the links, installation instructions, and usage guidelines as needed.
